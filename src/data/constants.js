@@ -388,7 +388,7 @@ export const projects = [
     description:
       "ChatWave is a modern chat application that enables real-time messaging between users. It offers features for user authentication, chat rooms, file sending, live notifications, private messaging, and administrative controls for managing users and messages. This application provides a seamless user experience with modern design and real-time updates.",
     image:
-      "https://private-user-images.githubusercontent.com/84896867/363330075-2281e172-a620-4c23-aee6-35e4f09895fe.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjUxNTkxOTIsIm5iZiI6MTcyNTE1ODg5MiwicGF0aCI6Ii84NDg5Njg2Ny8zNjMzMzAwNzUtMjI4MWUxNzItYTYyMC00YzIzLWFlZTYtMzVlNGYwOTg5NWZlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTAxVDAyNDgxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRhNTY0ZWU5ZjFjODZjOTFhZTA3NTY2YWQ5M2FjZWQ0YTY5MmUxZDIwZDg4OTI0NDY4Yjg2NjE2NTA5MjQ2MWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.jlRAw35ncqgD_IOIKh2khhVD2Mjg_RSDxTdjkFBLOlw",
+      "https://github.com/bhaskarvora/ChatWave_Frontend/blob/master/Screenshot%202024-08-30%20164128.png?raw=true",
     tags: [
       
       "ReactJS",
@@ -403,7 +403,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/bhaskarvora/ChatWave_Server",
-    webapp: "https://trackify.duckdns.org",
+    webapp: "",
   },
   {
     id: 0,
@@ -412,7 +412,7 @@ export const projects = [
     description:
       "Developed a full-stack web application that showcases a robust frontend application integrated with Firebase Authentication for secure user management, utilizing react-router-dom for dynamic routing and protected routes. The application features lazy-loaded pages and protected routes to ensure secure access based on user roles, enhancing both performance and security. The user interface is designed to be responsive and user-friendly, incorporating react-hot-toast for real-time feedback on user actions and API responses. State management is efficiently handled using Redux, with TypeScript providing type safety and improving developer experience by defining clear types for state and API interactions. Additionally, the project includes comprehensive error management, with detailed handling of API responses and navigation based on success or failure scenarios, ensuring a seamless and intuitive user experience.",
     image:
-      "https://private-user-images.githubusercontent.com/84896867/363515343-40467adb-649e-4423-926d-5aaec13b4e56.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjUyMjQ1MzYsIm5iZiI6MTcyNTIyNDIzNiwicGF0aCI6Ii84NDg5Njg2Ny8zNjM1MTUzNDMtNDA0NjdhZGItNjQ5ZS00NDIzLTkyNmQtNWFhZWMxM2I0ZTU2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTAxVDIwNTcxNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFkYjc5NGQ2NDQyYjY3ZjVkNzVmODA2NmE0OTRjMGQzOWExMmNkNTBjZGU1OGMxYTEzMmQ2YWZjMzdlNDk0OTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.e-2TyIwNdVq8YS6UrCLY1SA9OLkLuAnOEM8PH0MERbM",
+      "https://github.com/bhaskarvora/MERN-STACK-ECOMMERCE-WEBSITE-FRONTEND/blob/master/Screenshot%202024-09-01%20002658.png?raw=true",
     tags: ["React Js", "TypeScript", "MongoDB", "Firebase", "SCSS","React-Redux","Git","Javascript","Vite","Postman","Stripe"],
     category: "web app",
     github: "https://github.com/bhaskarvora/MERN-STACK-ECOMMERCE-WEBSITE-BACKEND",
@@ -426,7 +426,7 @@ export const projects = [
     description:
       "The OYO Clone project offers a range of features designed to replicate key aspects of an online booking platform. It includes a comprehensive user authentication system, allowing users to securely sign up and log in with their credentials. The project integrates Stripe for payment processing, enabling users to handle transactions seamlessly through a secure checkout flow. Additionally, the application connects to a MongoDB database to manage and store user data effectively. It employs robust error handling mechanisms to address issues related to both payment processing and API interactions, ensuring a smooth and reliable user experience. Overall, the OYO Clone combines essential functionalities for user management and payment processing in a cohesive and user-friendly web application.",
     image:
-      "https://private-user-images.githubusercontent.com/84896867/362896553-3d5ee668-1bb6-4f9c-ba0a-2636cf749332.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjUyMzA2NDcsIm5iZiI6MTcyNTIzMDM0NywicGF0aCI6Ii84NDg5Njg2Ny8zNjI4OTY1NTMtM2Q1ZWU2NjgtMWJiNi00ZjljLWJhMGEtMjYzNmNmNzQ5MzMyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTAxVDIyMzkwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkyNzk4OWQzMzk1MjMzMDhmMGJiMDVhNDQzMmE2NjNmNDVjMGQzMjYwMGQ5YzA1YThkMTQwNDM4NWZlMTE2YWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.XKD_OJYSmcEAtqp9NBJrViHQmJNlrlnuS4vnQsYbF0Q",
+      "https://github.com/bhaskarvora/Oyo-Clone/blob/Remaining_Code/Screenshot%202024-08-29%20160019.png?raw=true",
     tags: [
       "Next.js",
       "MongoDb",
@@ -449,7 +449,7 @@ export const projects = [
       "This  project delves into the domain of Automated Essay Scoring  (AES) with a primary focus on leveraging Long Short-Term  Memory (LSTM) networks for essay evaluation. Traditional grading methods often suffer from subjectivity and inefficiency,  whereas AES offers a consistent, unbiased, and expedited . Leveraging LSTM networks, renowned for their proficiency in processing sequential data and addressing vanishing gradient issues, holds promise for enhancing scoring accuracy and advancing educational insights.",
 
     image:
-      "https://private-user-images.githubusercontent.com/84896867/327629999-7190e1fd-d034-4b6f-b651-51ef21af6cb7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjUyMzQ4NDUsIm5iZiI6MTcyNTIzNDU0NSwicGF0aCI6Ii84NDg5Njg2Ny8zMjc2Mjk5OTktNzE5MGUxZmQtZDAzNC00YjZmLWI2NTEtNTFlZjIxYWY2Y2I3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTAxVDIzNDkwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRmYzc4YjEyODk2YzhkMzVmY2QzYTA3NDg2Yjk3NjQ0N2FiZDYyYmM5MzQ5MmU2YzZiMDY4NmY4OTY3MWFmNjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.-qVc4TSG-BxONyUyaVrLYvjrlpXMM8dWuXp7_u-UX38",
+      "https://github.com/bhaskarvora/Automatic-Essay-Scoring-using-LSTM-networks/blob/main/327629999-7190e1fd-d034-4b6f-b651-51ef21af6cb7.png?raw=true",
     tags: ["Python", "LSTM Networks", "NLP", "Django", "Google News 300"],
     category: "machine learning",
     github: "https://github.com/bhaskarvora/Automatic-Essay-Scoring-using-LSTM-networks",
@@ -464,7 +464,7 @@ export const projects = [
     description:
       "Developed user-friendly android app enabling seamless ride requests and driver bids. Implemented real-time bidding methodology optimizing driver-rider matching for an optimal experience. Efficient map integration for seamless pick-up and drop-off location entry, with automatic recognition of the currentlocation for effortless booking. Improved the overall ride-hailing experience by reducing wait times, increasing driver earnings, and offering riders more pricing options.",
     image:
-      "https://private-user-images.githubusercontent.com/84896867/327626660-91ebc601-e97d-4997-8e88-242b08bc3636.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjUyMzc3NDQsIm5iZiI6MTcyNTIzNzQ0NCwicGF0aCI6Ii84NDg5Njg2Ny8zMjc2MjY2NjAtOTFlYmM2MDEtZTk3ZC00OTk3LThlODgtMjQyYjA4YmMzNjM2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTAyVDAwMzcyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYyYmZkYmIxMjA5MDUzOGMyZTY2NjMyZGM3NDVmYTkxYTdmNmEwM2JjMmE2ZGRlZWQxNjNkMjc0MTA4ZjUwODEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.ncaYpxjdcgQNd2e1Y-m6qJP0nMhBlvl3S1Wtm4n5spY",
+      "https://github.com/bhaskarvora/Web-development/blob/main/327626660-91ebc601-e97d-4997-8e88-242b08bc3636.png?raw=true",
     tags: ["Java", "Google Maps API", "Open Cage Data API","XML","Firebase"],
     category: "android app",
     github: "https://github.com/mitalipadiya/bidridego",
@@ -491,7 +491,7 @@ export const projects = [
     description:
       "This project is a Movie Recommender System that suggests movies based on a selected movie's similarity to others. The system utilizes a machine learning model to determine the similarity between movies, allowing users to receive personalized movie recommendations. The application fetches movie details, including posters, from the TMDB (The Movie Database) API and displays them in a user-friendly interface using Streamlit.",
     image:
-      "https://private-user-images.githubusercontent.com/84896867/363539180-42bccfcb-c52b-4a93-b4d8-d165bfb61550.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjUyNDM0ODYsIm5iZiI6MTcyNTI0MzE4NiwicGF0aCI6Ii84NDg5Njg2Ny8zNjM1MzkxODAtNDJiY2NmY2ItYzUyYi00YTkzLWI0ZDgtZDE2NWJmYjYxNTUwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTAyVDAyMTMwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUwODFlY2VjNDQyMDBkNzY2ZjJhMDM2ZTRhYWI5ODJmYzE0ZmQ2NTIxNDg0ZTdlNWY0OTJiYWEyNGNjMDA5MTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.-mS2HB7hwJl5QNmJvVGZ0VQg_xWb8LYalEn92W43TT0",
+      "https://github.com/bhaskarvora/Movie-Recommender-System/blob/main/Screenshot%202024-09-01%20221222.png?raw=true",
     tags: ["Python", "Pandas", "Streamlit", "TMDB API", "Pickle", "Cosine Similarity Algorithm"],
     category: "machine learning",
     github: "https://github.com/bhaskarvora/Movie-Recommender-System",
@@ -543,7 +543,7 @@ export const projects = [
     description:
       "Flutter bird game using pygame for Computer Graphics Project",
     image:
-      "https://private-user-images.githubusercontent.com/84896867/363535014-041fec3c-2cbd-4176-b754-5fd15d081ba8.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjUyNDE2MTYsIm5iZiI6MTcyNTI0MTMxNiwicGF0aCI6Ii84NDg5Njg2Ny8zNjM1MzUwMTQtMDQxZmVjM2MtMmNiZC00MTc2LWI3NTQtNWZkMTVkMDgxYmE4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTAyVDAxNDE1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc5OThkZTY3YzZiNWYzM2E5ZGJhMDVlMDVlMGZkYjQzMGVlNTU3OWU0MTBhYjVlNjI0NDU4OTNmZTY3ZGJmYTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.zDvBKkpae6NkDUDjhMfb1lvnaXV4xPprKRcreqCWk9U",
+      "https://github.com/bhaskarvora/flappy1/blob/main/Screenshot%202024-09-01%20213727.png?raw=true",
     tags: ["Python", "Pygame"],
     category: "",
     github: "https://github.com/bhaskarvora/flappy1",
