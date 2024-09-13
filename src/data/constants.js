@@ -1,3 +1,5 @@
+import { Twitter } from "@mui/icons-material";
+
 export const Bio = {
   name: "Bhaskar Vora",
   roles: [
@@ -11,9 +13,9 @@ export const Bio = {
     "I am a highly motivated and adaptable professional with a strong enthusiasm for embracing new challenges. Driven by a passion for continuous learning, I am committed to delivering exceptional results. My positive outlook and growth mindset enable me to contribute effectively and strive for excellence in all my endeavors.",
   github: "https://github.com/bhaskarvora",
   resume:
-    "https://drive.google.com/file/d/1zQPDZ7VAbXpokC5NfnEK0HepB8SK3qWY/view?usp=sharing",
+    "https://drive.google.com/file/d/1Qt_vM2GmBFutWoHbhXO6GHLeze0KNUKa/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/bhaskar-vora-byv/",
-  X: "https://x.com/bhaskarvora",
+  Twitter: "https://x.com/bhaskarvora",
   insta: "https://www.instagram.com/bhaskaryvora/",
   
 };
@@ -600,7 +602,7 @@ export const projects = [
 export const TimeLineData = [
   { year: 2017, text: "Started my Diploma Engineering journey learning C, C++" },
   { year: 2018, text: "Learnt Microprocessor, Digital Logic Design Concepts" },
-  { year: 2019, text: "Founded JavaScript Mastery" },
+  { year: 2019, text: "Learnt Java, Javascript in depth" },
   { year: 2020, text: "Shared my projects with the world" },
-  { year: 2021, text: "Started my own platform" },
+  ,
 ];
