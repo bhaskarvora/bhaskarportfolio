@@ -604,5 +604,5 @@ export const TimeLineData = [
   { year: 2018, text: "Learnt Microprocessor, Digital Logic Design Concepts" },
   { year: 2019, text: "Learnt Java, Javascript in depth" },
   { year: 2020, text: "Shared my projects with the world" },
-  ,
+  
 ];
