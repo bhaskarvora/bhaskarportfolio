@@ -1,4 +1,4 @@
-import { Twitter } from "@mui/icons-material";
+
 
 export const Bio = {
   name: "Bhaskar Vora",
@@ -15,7 +15,7 @@ export const Bio = {
   resume:
     "https://drive.google.com/file/d/1SgfQrJvd1EIlNqT_D_BW43REJ-3oBt2Z/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/bhaskar-vora-byv/",
-  Twitter: "https://x.com/bhaskarvora",
+  X: "https://x.com/bhaskarvora",
   insta: "https://www.instagram.com/bhaskaryvora/",
   
 };
