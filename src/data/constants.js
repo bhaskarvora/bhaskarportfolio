@@ -13,7 +13,7 @@ export const Bio = {
     "I am a highly motivated and adaptable professional with a strong enthusiasm for embracing new challenges. Driven by a passion for continuous learning, I am committed to delivering exceptional results. My positive outlook and growth mindset enable me to contribute effectively and strive for excellence in all my endeavors.",
   github: "https://github.com/bhaskarvora",
   resume:
-    "https://drive.google.com/file/d/1Qt_vM2GmBFutWoHbhXO6GHLeze0KNUKa/view?usp=sharing",
+    "https://drive.google.com/file/d/1SgfQrJvd1EIlNqT_D_BW43REJ-3oBt2Z/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/bhaskar-vora-byv/",
   Twitter: "https://x.com/bhaskarvora",
   insta: "https://www.instagram.com/bhaskaryvora/",
