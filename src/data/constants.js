@@ -217,6 +217,83 @@ export const skills = [
       },
     ],
   },
+
+
+{
+  title: "Cloud & DevOps",
+  skills: [
+    { name: "AWS", image: "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" },
+    { name: "Azure", image: "https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" },
+    { name: "GCP", image: "https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Cloud_logo.svg" },
+    { name: "Kubernetes", image: "https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" },
+    { name: "Terraform", image: "https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" },
+    { name: "CI/CD", image: "https://upload.wikimedia.org/wikipedia/commons/e/e9/Continuous_Integration_Logo.png" },
+    { name: "Jenkins", image: "https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" },
+    { name: "GitLab", image: "https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" },
+    { name: "GitHub Actions", image: "https://avatars.githubusercontent.com/u/44036562?s=280&v=4" },
+    { name: "RabbitMQ", image: "https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg" },
+    { name: "Airflow", image: "https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" }
+  ],
+},
+
+{
+  title: "Data Engineering / Analytics Tools",
+  skills: [
+    {
+      name: "ETL",
+      image: "https://cdn-icons-png.flaticon.com/512/4697/4697260.png", // ETL gear icon
+    },
+    {
+      name: "Databricks",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-hCy-Ey_FsARYnWnat6STTr2ILQHIHQdAbw&s", // PNG version from Wikipedia
+    },
+    {
+      name: "Snowflake",
+      image: "https://media.istockphoto.com/id/1194851665/vector/snowflake-blue-gradient-icon-simple-flat-vector-illustration-silhouette-eps10-isolated-on.jpg?s=612x612&w=0&k=20&c=Hm2QIAtmQz4ek4SV0zKxVugHKnnl-0HfQI1LnyKPX2Y=", // PNG hosted on 1000logos
+    },
+    {
+      name: "Kafka",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDCsnH-LecjXUO0ujaEgMSALxOVGEf_7KSZA&s", // From Icon-Icons
+    },
+    {
+      name: "HiveQL",
+      image: "https://repository-images.githubusercontent.com/541768805/d8af160d-a64c-4a7e-aa24-7a03dfb7d3f7", // From Icon-Icons
+    },
+    {
+      name: "Azure Data Factory",
+      image: "https://miro.medium.com/v2/1*X0_s8C5ZsnJreHZMl_JS8w.png", // From Microsoft TechCommunity (PNG screenshot of Data Factory)
+    }
+  ]
+}
+,
+
+{
+  title: "Testing",
+  skills: [
+    {
+      name: "Manual Testing",
+      image: "https://cdn-icons-png.flaticon.com/512/2038/2038721.png",
+    },
+    {
+      name: "Integration Testing",
+      image: "https://cdn-icons-png.flaticon.com/512/1089/1089876.png",
+    },
+    { 
+      name: "Unit Testing",
+      image: "https://cdn-icons-png.flaticon.com/512/3514/3514543.png",
+    },
+    {
+      name: "Selenium",
+      image: "https://www.accelq.com/wp-content/uploads/2023/09/selenium-hero-img.png",
+    },
+    {
+      name: "AB Testing",
+      image: "https://cdn-icons-png.flaticon.com/512/1049/1049603.png",
+    }
+  ]
+}
+,
+
   {
     title: "Others",
     skills: [
@@ -258,20 +335,23 @@ export const skills = [
       },
     ],
   },
+
+  
+
 ];
 
 export const experiences = [
   {
     id: 0,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHmb93ECz5mx29vbvLJniM22A1xccaXuE82w&s",
-    role: "Data Scientist Intern",
+    role: "Data Scientist",
     company: "Infolabz IT Services Ltd",
-    date: "Dec 2022 - July 2023",
+    date: "Jul 2022 - Jul 2023",
     desc: [
       "Developed and deployed machine learning models on ServiceNow data to analyze historical incident patterns, identify early warning signs, and predict potential service disruptions.",
-      "Automated data quality monitoring in PowerBI using embedded Python.",
-      "Optimized ETL jobs to improve the robustness of the pipeline and reduced the job timings by 40 percent.",
-      "Developed Dashboards using Tableau Data Visualization tool."
+      "Automated data cleansing and quality monitoring in Power BI using embedded Python, enhancing KPI tracking and visualization.",
+      "Optimized ETL jobs by refactoring pipelines and parallelizing workloads, reducing processing times by 40% and enhancing overall system reliability.",
+      " Developed interactive Tableau dashboards to visualize key metrics and trends, allowing users to drill down into data for improved decision-making."
     ],
 
     skills: [
@@ -282,18 +362,23 @@ export const experiences = [
       "Microsoft Power BI",
       "Tableau",
       "Docker",
-      "AWS"
+      "AWS",
+      "NLP",
+      "R",
+      "Excel",
+      "Predictive Analytics"
     ],
   
   },
   {
     id: 0,
     img: "https://d2q79iu7y748jz.cloudfront.net/s/_logo/cef3a5a00a5912fa6c61045273f783b6",
-    role: "ReactJS Intern",
+    role: "Software Developer",
     company: "VNurture Technologies",
-    date: "June 2022 - Nov 2022",
+    date: "Jul 2021 - Jun 2022",
     desc: ["Developed an intuitive internal portal using React and Tailwindcss for creating extension specifications, streamlining the process for teams across the organization.",
     " Designed and integrated an easy-reordering feature on the customer account page, providing a seamless and efficient ordering experience for users." ,
+    "Emphasized rigorous debugging & automated testing to resolve UI extension issues, optimizing communication for smooth user experiences.",
    " Collaborated with a team in creating the foundation of the customer account UI extension using remote-ui and web worker technologies, laying the groundwork for future enhancements and customization options."],
     skills: [
       "ReactJS",
@@ -316,11 +401,12 @@ export const experiences = [
   {
     id: 1,
     img: "https://i.pinimg.com/280x280_RS/5a/0d/e1/5a0de1391c884cd4ee9ba5c4cbb3820e.jpg",
-    role: "Python Django Intern",
+    role: "Application Developer",
     company: "CreArt Solutions",
-    date: "Feb 2022 - June 2022",
-    desc: ["Contributed effectively in authentication module and cart feature of an E-commerce website.",
-      "Collaborated with team members using version control systems such as Git to organize modifications and assign tasks. " ,
+    date: "Mar 2020 - June 2021",
+    desc: [" Handled structured and unstructured data for product and user modules, enabling clean input validation, storage, and backend processing workflows.",
+      " Implemented and debugged API services for internal platforms, maintaining data integrity for user interactions and transactions." ,
+      "Used PostgreSQL for backend data management, ensuring efficient data storage and retrieval processes aligned with performance metrics."
     ],
     skills: [
       "Python",
@@ -330,13 +416,14 @@ export const experiences = [
       "JavaScript",
       "Docker",
       "PostgreSQL",
+      "Power BI"
     ],
   },
   
   {
     id: 4,
     img: "https://i.pinimg.com/280x280_RS/5a/0d/e1/5a0de1391c884cd4ee9ba5c4cbb3820e.jpg",
-    role: "Android Developer Intern",
+    role: "Android Developer ",
     company: "CreArt Solutions",
     date: "June 2021 - Oct 2021",
 
@@ -390,6 +477,34 @@ export const education = [
 
 export const projects = [
   {
+    id: 7,
+    title: "MedCAM-A-Model-for-Medical-Image-Segmentation",
+    date: "Sep 2024 - Dec 2024",
+    description:
+      "MedCAM is a hybrid deep learning model combining CNNs and transformers for precise medical image segmentation. Using a CAM decoder with attention mechanisms and a multi-scale encoder, it achieved a Dice score of 0.8214 on Synapse Dataset",
+    image:
+      "https://private-user-images.githubusercontent.com/84896867/415943538-3687cb43-6e6c-4e41-ad38-468f467f413a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4MDQ2ODgsIm5iZiI6MTc1MzgwNDM4OCwicGF0aCI6Ii84NDg5Njg2Ny80MTU5NDM1MzgtMzY4N2NiNDMtNmU2Yy00ZTQxLWFkMzgtNDY4ZjQ2N2Y0MTNhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI5VDE1NTMwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM4MjJlODQ3MzgyZTQxNGIxNDAwOGFhZGE3YmM5N2ZmMDhhN2Q2YTk4YzRiMDExOTc0NTk0MDE0OTQ5OGNlZjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.YCClZhUyUfEtfO8CA8q8EwHnmjicpd_yCj1d9Ur4D9U",
+    tags: [
+      
+      "Python",
+      "PyTorch",
+      "AWS SageMaker",
+      "Torchvision",
+      "Numpy",
+      "Seaborn",
+      "CNN",
+      "VIT Transformer",
+      "CAM Decoder",
+  
+
+    ],
+    category: "machine learning",
+    github: "https://github.com/bhaskarvora/MedCAM-A-Model-for-Medical-Image-Segmentation",
+    webapp: "",
+  },
+
+
+  {
     id: 9,
     title: "ChatWave",
     date: "Jun 2024 - Aug 2024",
@@ -413,6 +528,9 @@ export const projects = [
     github: "https://github.com/bhaskarvora/ChatWave_Server",
     webapp: "",
   },
+
+
+
 
 
   {
@@ -476,6 +594,9 @@ export const projects = [
     github: "https://github.com/bhaskarvora/Oyo-Clone",
     webapp: "",
   },
+
+
+
   {
     id: 2,
     title: "Automatic Essay Scoring using LSTM networks",
@@ -491,6 +612,21 @@ export const projects = [
     webapp: "",
     
   },
+
+    {
+    id: 7,
+    title: "Yummi Fly",
+    date: "Mar 2025 - May 2025",
+    description:
+      "YummiFly is a full-featured, full-stack food delivery web application that allows users to browse restaurants, order their favorite dishes, and track orders in real time. It includes a user-facing frontend, a secure backend API, and an admin panel for restaurant owners or platform managers.",
+    image:
+      "https://github.com/bhaskarvora/Yummi-Fly/raw/main/assets/Red%20Dot%20in%20Cart%20Icon%20Shows%20Cutomer%20added%20Dishes.png",
+    tags: ["React", "Javascript","Stripe Payment Integration", "Node.JS","Express.JS","JWT", "MongoDB Atlas"],
+    category: "web app",
+    github: "https://github.com/bhaskarvora/Yummi-Fly",
+    webapp: "",
+  },
+
  
   {
     id: 10,
@@ -505,6 +641,23 @@ export const projects = [
     github: "https://github.com/mitalipadiya/bidridego",
     webapp: "",
   },
+
+
+
+   {
+    id: 6,
+    title: "FASTAPI FOOD PIZZA DELIVERY",
+    date: "Jun 2025 - Jul 2025",
+    description:
+      "This is a RESTful API for a Fast Food Pizza Delivery service, built using FastAPI, SQLAlchemy, and PostgreSQL. The goal was to simulate a real-world backend service that handles user authentication, order management, and access control using JWT tokens.",
+    image:
+      "https://github.com/bhaskarvora/FastAPI-Food-Delivery-API/raw/main/Screenshot%202025-07-29%20124500.png?raw=true",
+    tags: ["Python", "FastAPI", "Uvicorn ","SQLAlchemy ","Pydantic ", "PostgreSQL ", "Swagger UI ", "Werkzeug "],
+    category: "web app",
+    github: "https://github.com/bhaskarvora/FastAPI-Food-Delivery-API",
+    webapp: "",
+  },
+
   {
     id: 3,
     title: "Face Mask Detection using Convolutional Networks(CNN) ",
@@ -558,7 +711,8 @@ export const projects = [
     github: "https://github.com/bhaskarvora/Women-Be-Safe",
     webapp: "",
   },
-  {
+ 
+{
     id: 6,
     title: "Event Management System",
     date: "Mar 2022 - Jun 2022",
@@ -571,6 +725,8 @@ export const projects = [
     github: "https://github.com/bhaskarvora/event-management-system",
     webapp: "",
   },
+
+
   {
     id: 7,
     title: "Flutter Bird Game",
