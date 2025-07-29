@@ -483,7 +483,7 @@ export const projects = [
     description:
       "MedCAM is a hybrid deep learning model combining CNNs and transformers for precise medical image segmentation. Using a CAM decoder with attention mechanisms and a multi-scale encoder, it achieved a Dice score of 0.8214 on Synapse Dataset",
     image:
-      "https://private-user-images.githubusercontent.com/84896867/415943538-3687cb43-6e6c-4e41-ad38-468f467f413a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4MDQ2ODgsIm5iZiI6MTc1MzgwNDM4OCwicGF0aCI6Ii84NDg5Njg2Ny80MTU5NDM1MzgtMzY4N2NiNDMtNmU2Yy00ZTQxLWFkMzgtNDY4ZjQ2N2Y0MTNhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzI5VDE1NTMwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM4MjJlODQ3MzgyZTQxNGIxNDAwOGFhZGE3YmM5N2ZmMDhhN2Q2YTk4YzRiMDExOTc0NTk0MDE0OTQ5OGNlZjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.YCClZhUyUfEtfO8CA8q8EwHnmjicpd_yCj1d9Ur4D9U",
+      "https://github.com/bhaskarvora/MedCAM-A-Model-for-Medical-Image-Segmentation/blob/main/Result%20of%20MedCAM%20Model%202.png?raw=true",
     tags: [
       
       "Python",
