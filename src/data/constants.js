@@ -13,7 +13,7 @@ export const Bio = {
     "I am a highly motivated and adaptable professional with a strong enthusiasm for embracing new challenges. Driven by a passion for continuous learning, I am committed to delivering exceptional results. My positive outlook and growth mindset enable me to contribute effectively and strive for excellence in all my endeavors.",
   github: "https://github.com/bhaskarvora",
   resume:
-    "https://drive.google.com/file/d/1Epyngl4OEHAtj-DGMPBwuB5qvlgn4qA9/view?usp=sharing",
+    "https://drive.google.com/file/d/1g-i7Wn9IDkNYaWXzdN2NNfd3q4ZUjCA7/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/bhaskar-vora-byv/",
   X: "https://x.com/bhaskarvora",
   insta: "https://www.instagram.com/bhaskaryvora/",
@@ -341,6 +341,42 @@ export const skills = [
 ];
 
 export const experiences = [
+
+{
+    id: 0,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU756fIyHLOd7YOpg4NPaOSaPv50yv-E4uZw&s",
+    role: "International Student Leader – Data Insights & Engagement",
+    company: "Wilfrid Laurier University",
+    date: "Apr 2024 - Apr 2025",
+    desc: [
+      "Designed a student engagement analytics system integrating attendance, survey, and demographic data using Python and Airflow for automation.",
+      "Engineered ETL workflows to transform CSV/Excel/Google Forms data into PostgreSQL tables using advanced SQL (window functions, CTEs, indexing).",
+      "Developed interactive Tableau and Power BI dashboards with drilldowns, dynamic filters, and KPI tracking to support data-driven decision-making.",
+      "Applied Natural Language Processing (spaCy, NLTK) to classify and score qualitative feedback, identifying trends in student engagement themes.",
+      "Implemented A/B testing on communication strategies (email, social media, and student portal notifications) to determine the most effective outreach method.",
+      "Delivered data-backed recommendations to International Student Support and Student Life teams, increasing attendance in underperforming events by 20%"
+
+    ],
+
+    skills: [
+      "Data Science,",
+      "Python",
+      "Numpy",
+      "Matplotlib",
+      "Scikit Learn",
+      "spaCY",
+      "NLTK",
+      "PostgreSQL",
+      "Airflow",
+      "Tableau",
+      "Power BI",
+      "Predictive Analytics",
+      "A/B Testing",
+      "LLM"
+    ],
+  
+  },
+
   {
     id: 0,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHmb93ECz5mx29vbvLJniM22A1xccaXuE82w&s",
